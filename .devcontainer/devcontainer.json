@@ -11,7 +11,7 @@
 			"installTools": true,
 			"version": "3.12"
 		},
-		"ghcr.io/hspaans/devcontainer-features/django-upgrade:1": {
+		"ghcr.io/hspaans/devcontainer-features/django-upgrade:2": {
 			"version": "latest"
 		}
 	}
